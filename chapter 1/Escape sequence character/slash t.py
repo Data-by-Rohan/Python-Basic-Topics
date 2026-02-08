@@ -1,0 +1,1 @@
+print("column1 \t column2 \t column3   ")
